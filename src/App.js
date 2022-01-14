@@ -18,13 +18,7 @@ function App() {
       <RowPost url={HorrorMovies}title='Horror' isSmall />
       <RowPost url={RomanceMovies}title='Romance' isSmall />
       <RowPost url={Documentaries}title='Documentaries' isSmall />
-
-
-
-
-      
     </div>
   );
 }
-
 export default App;
