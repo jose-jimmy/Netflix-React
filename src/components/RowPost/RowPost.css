@@ -16,14 +16,14 @@
 
 .poster {
   cursor: pointer;
-  max-height: 250px;
+  max-height: 200px;
   margin-right: 10px;
 }
 
 .smallPoster {
   cursor: pointer;
   max-height: 150px;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .poster:hover {
